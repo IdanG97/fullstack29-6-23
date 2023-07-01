@@ -5,7 +5,7 @@
     <title>Ecom Fullstack Course</title>
 </head>
 
-<body>
+<body style="background-color: cyan;">
   <h3><u>Idan Gueta</u></h3>
  </br>
  </br>
@@ -20,4 +20,4 @@
  </hr>
 </body>
 
-<html/>
+</html>
