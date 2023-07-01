@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Ecom Fullstack Course</title>
+</head>
+
+<body>
+  <h3><u>Idan Gueta</u></h3>
+ </br>
+ </br>
+ <p>Idan <b>Gueta</b> age <b>25</b> born <b>and</b> raised <b>in</b> ramat <b>gan</b>. I <b>went</b> to <b>hadash</b> high <b>school</b>, and <b>majored</b> in <b>electrical</b> engineering. <b>In</b> the <b>idf</b> i <b>served</b> 4 <b>years</b> as <b>a</b> <del>tank</del> <b>electrician</b>.</p>
+ </br>
+ </br>
+ <p>Today <b>I</b> work <b>at</b> Gadir <b>Engineering</b>, an <b>energy</b> saving <b>company</b>. But <b>in</b> my <b>spare</b> time <b>i</b> play <b>the</b> guitar, <b>mostly</b> write <b>solos</b> but <b>i</b> also <b>dabble</b> in <b>jazz</b> <del>music</del> <b>sometimes</b>.</p>
+ </br>
+ </br>
+  <a href="https://www.youtube.com/" target="_blank">Click here for YouTube </a>
+ </hr>
+ </hr>
+</body>
+
+<html/>
